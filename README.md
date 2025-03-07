@@ -1,21 +1,62 @@
-# 💫 About Me:
-¡Hola a todos! 👋 Soy un joven y entusiasta programador de 19 años, nacido y criado en Colombia. Desde temprana edad, me he sentido atraído por el mundo de la tecnología y la programación, y he dedicado horas interminables a aprender y perfeccionar mis habilidades.<br><br>Mi pasión por la programación va más allá de escribir líneas de código; se trata de crear soluciones innovadoras y emocionantes que impacten positivamente a las personas y al mundo que nos rodea. Me encanta colaborar con equipos creativos, donde puedo aportar mis ideas y aprender de otros para llevar nuestros proyectos al siguiente nivel.<br><br>Estoy constantemente buscando desafíos que me permitan crecer tanto profesional como personalmente. Creo firmemente en el aprendizaje continuo y en estar al tanto de las últimas tendencias y tecnologías en el campo de la programación.<br><br>En resumen, soy un apasionado de la tecnología con un fuerte deseo de aprender, crecer y destacar en la industria. Estoy emocionado por las oportunidades que el futuro tiene reservadas y ansioso por contribuir de manera significativa a proyectos innovadores y emocionantes. ¡Juntos, podemos hacer cosas increíbles! 💻🚀
+<br clear="both">
 
+<div align="left">
+  <img height="350" src="https://avatars.githubusercontent.com/u/157441281?v=4"  />
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juan_dfp19) 
+###
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=J-D-FARFAN&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=J-D-FARFAN&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=J-D-FARFAN&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <a href="https://www.instagram.com/juan_dfp19?igsh=MXN1dDAzYXplbzZ1Mg==" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="www.linkedin.com/in/juandada" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=J-D-FARFAN&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=J-D-FARFAN&icon=7&color=8)](https://visitcount.itsvg.in)
+<h1 align="center">Hola a todos 👋</h1>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<h3 align="left">👩‍💻  Sobre mí</h3>
+
+###
+
+<p align="left">Desarrollador Frontend de Colombia.<br><br>🔭 Desarrollador Frontend con 3 años de experiencia, enfocado en mi crecimiento personal y técnico.<br><br>📚 Estoy aprendiendo conceptos avanzados de React y buenas prácticas para crear interfaces interactivas y eficientes.<br><br>⚡ En mi tiempo libre, trabajo en proyectos personales para mejorar mis habilidades, enfrentar desafíos técnicos y explorar nuevas tecnologías.<br><br>Me apasiona aprender, perfeccionar mis habilidades y aplicar buenas prácticas en cada línea de código que escribo.</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
+
+###
+  
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=J-D-FARFAN&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
